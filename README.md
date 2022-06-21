@@ -1,1 +1,3 @@
-https://tsiestova.github.io/calculatorReact/ 
+
+-- Calculator
+- https://tsiestova.github.io/calculatorReact/ 
